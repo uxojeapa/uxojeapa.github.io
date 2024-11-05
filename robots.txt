@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxojeapa.github.io/bMp/sitemap_index.txt
+Sitemap: https://uxojeapa.github.io/iVD/sitemap_index.txt
+Sitemap: https://uxojeapa.github.io/mij/sitemap_index.txt
+Sitemap: https://uxojeapa.github.io/tfi/sitemap_index.txt
